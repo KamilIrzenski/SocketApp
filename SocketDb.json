@@ -1,0 +1,72 @@
+[
+  {
+    "UserName": "admin",
+    "Password": "admin",
+    "Role": 0
+  },
+  {
+    "UserName": "user",
+    "Password": "user",
+    "Role": 1
+  },
+  {
+    "UserName": "adam",
+    "Password": "haslo",
+    "Role": 1
+  },
+  {
+    "UserName": "franek",
+    "Password": "haslo",
+    "Role": 1
+  },
+  {
+    "UserName": "romek",
+    "Password": "Atomek",
+    "Role": 1
+  },
+  {
+    "UserName": "adduser",
+    "Password": "asd",
+    "Role": 1
+  },
+  {
+    "UserName": "juliusz",
+    "Password": "juliusz",
+    "Role": 1
+  },
+  {
+    "UserName": "juliusz",
+    "Password": "haslo",
+    "Role": 1
+  },
+  {
+    "UserName": "gienia",
+    "Password": "haslo",
+    "Role": 1
+  },
+  {
+    "UserName": "ciul",
+    "Password": "ciul",
+    "Role": 1
+  },
+  {
+    "UserName": "huj",
+    "Password": "huj",
+    "Role": 1
+  },
+  {
+    "UserName": "kurwa",
+    "Password": "kurwa",
+    "Role": 1
+  },
+  {
+    "UserName": "ciul",
+    "Password": "ciul",
+    "Role": 1
+  },
+  {
+    "UserName": "asd",
+    "Password": "ad",
+    "Role": 1
+  }
+]
